@@ -1,0 +1,51 @@
+body {
+  background-color: #e4e3e3;
+}
+
+hr {
+  border-style: none;
+  width: 5%;
+  border-top: dotted;
+  border-color: #84a9ac;
+  border-width: 5px;
+
+}
+
+h1,
+h2,
+h3 {
+  color: #84a9ac;
+  font-family: Arial , sans-serif;
+}
+
+p {
+  font-family: Arial , sans-serif;
+}
+
+li {
+  font-family: Arial , sans-serif;
+}
+
+table {
+  font-family: Arial ,sans-serif;
+}
+
+/* unvisited link */
+a:link {
+  color: #84a9ac;
+}
+
+/* visited link */
+a:visited {
+  color: #3b6978;
+}
+
+/* mouse over link */
+a:hover {
+  color: #c70039;
+}
+
+/* selected link */
+a:active {
+  color: #84a9ac;
+}
